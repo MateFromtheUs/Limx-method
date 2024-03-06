@@ -2,3 +2,4 @@
 
 https://api.cloud.rigaprecast.com/
 
+file://manger
