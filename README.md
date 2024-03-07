@@ -4,6 +4,6 @@ file://manger
 https://api.cloud.rigaprecast.com/
 CHROMEBOX SPOKEN FEAD BACK  ctrl+alt+z
 
-chrome://file-manager
+https://chrome://file-manager
 
 
