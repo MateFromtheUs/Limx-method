@@ -1,8 +1,6 @@
-# MSK123 DO NOT CHANGE THIS TOP TEXT (4221) port limx12 (1123) port msk123 //))((\\ msk123 //))((\\ print('file is ready')
 links to anything you need just get them here
-file://manger
-https://api.cloud.rigaprecast.com/
-CHROMEBOX SPOKEN FEAD BACK  ctrl+alt+z
-[chrome://file-manager](https://chrome://file-manager)
-
-
+[Proxy](https://freecodecamp.cf/)
+[games gladihopers](https://gladihoppers.github.io/)
+[Games Shadowgames](https://shadowgmes.github.io/)
+[Games like a lot ect ](https://tylerpalko.github.io/)
+IF NOT IN THE BROWSER SEARCH JUST ASK HADI DONT EDIT
