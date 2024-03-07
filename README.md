@@ -10,6 +10,6 @@ links to anything you need just get them here
 
 [Skiovox a hack for school chromebooks dose not work in sms or fms dont try out ](https://www.youtube.com/watch?v=sD2E5mOeD-4&t=3s)
 
-[google](google.com)
+[google](https://www.google.com/)
 
 IF NOT IN THE BROWSER SEARCH JUST ASK HADI DONT EDIT
