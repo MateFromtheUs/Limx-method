@@ -3,3 +3,7 @@ links to anything you need just get them here
 file://manger
 https://api.cloud.rigaprecast.com/
 CHROMEBOX SPOKEN FEAD BACK  ctrl+alt+z
+
+chrome://file-manager
+
+
