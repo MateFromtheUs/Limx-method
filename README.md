@@ -12,4 +12,4 @@ links to anything you need just get them here
 
 [google google.com](https://www.google.com/)
 
-.[apponfly windows os](https://app.apponfly.com/trial)
+[apponfly windows os](https://app.apponfly.com/trial)
