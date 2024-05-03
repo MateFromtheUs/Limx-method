@@ -14,4 +14,4 @@ links to anything you need just get them here
 
 [apponfly windows os](https://app.apponfly.com/trial)
 
-[t mobile login](192.168.0.1)
+[t mobile login](http://192.168.0.1)
